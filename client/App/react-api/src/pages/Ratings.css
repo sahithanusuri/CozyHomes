@@ -1,0 +1,27 @@
+#cont {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10;
+  }
+  #star {
+    display: flex;
+    flex-direction: row;
+  }
+  #comments {
+    border: 1px solid #a9a9a9;
+    border-radius: 5;
+    padding: 10;
+    margin: 20px 40px;
+    min-height: 300;
+    width: 500;
+  }
+
+  #submitbutton {
+    border: 1px solid #a9a9a9;
+    border-radius: 5;
+    width: 300;
+    padding: 10;
+    margin: 20px 40px;
+
+  }
